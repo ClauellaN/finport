@@ -19,7 +19,7 @@
 
 This project is deployed on **Vercel** and can be accessed at the following link:
 
-[FinPort Live on Vercel](https://your-vercel-deployment-link.com) <!-- Replace this with your actual deployment URL -->
+[FinPort Live on Vercel](https://finport.vercel.app/) <!-- Replace this with your actual deployment URL -->
 
 ## Installation and Setup
 
